@@ -22,9 +22,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterxyjz&theme=dark" alt="peterxyjz" width="100%"/></p>
 
 <h3 align="left">Most Used Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterxyjz&show_icons=true&locale=en&layout=compact&theme=dark" alt="peterxyjz" width="100%/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterxyjz&show_icons=true&locale=en&layout=compact&theme=dark" alt="peterxyjz" width="100%"/></p>
+
 
 <h3 align="left">GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterxyjz&show_icons=true&locale=en&theme=dark" alt="peterxyjz" width="100%/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterxyjz&show_icons=true&locale=en&theme=dark" alt="peterxyjz" width="100%" /></p>
 
 
