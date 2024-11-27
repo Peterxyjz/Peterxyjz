@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Nodejs, C#, MEARN**
+- 💬 Ask me about **Node.js, Nest.js, Next.js**
 
 - 📫 How to reach me **<huyq09@gmail.com>**
 
