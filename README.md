@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="./coding.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterxyjz&label=Profile%20views&color=0e75b6&style=flat" alt="peterxyjz" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Node.js, Nest.js, Next.js**
 
