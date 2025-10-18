@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi there, I'm Quang Huy
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/peterxyjz?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/peterxyjz?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=peterxyjz&label=Profile%20views&color=brightgreen&style=flat" alt="peterxyjz"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23E34C26&size=50&center=true&vCenter=true&height=60&width=600&lines=Hii!+I'm+Peterxyjz;Lê+Quang+Huy..;Eager+to+learn+and+grow!;Full+Stack+Developer;Welcome+to+my+profile!" alt="Title"></img>
 
 ### 💻 Passionate Software Developer | Full Stack Engineer
 
 <img src="./monleo.gif" alt="Coding" width="300"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=peterxyjz&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
@@ -16,7 +16,8 @@
 
 ```javascript
 const developer = {
-    name: "Quang Huy",
+    name: "Lê Quang Huy",
+    github: "peterxyjz",
     role: "Full Stack Developer",
     currentlyLearning: "Golang",
     expertise: ["Node.js", "Nest.js", "Next.js"],
@@ -119,6 +120,13 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterxyjz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&icon_color=E34C26&text_color=FFFFFF" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterxyjz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&text_color=FFFFFF" alt="Most Used Languages"/>
 </p>
+
+### 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
