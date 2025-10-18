@@ -39,6 +39,21 @@ const developer = {
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://fb.com/huy.lequang.91712" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:huyq09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+## </div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -141,21 +156,6 @@ const developer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://fb.com/huy.lequang.91712" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="mailto:huyq09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 </div>
 
