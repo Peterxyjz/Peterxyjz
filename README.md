@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Huy</h1>
 <h3 align="center">A Passionate Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="./coding.gif"  />
+<img align="right" alt="Coding" width="270" src="./monleo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterxyjz&label=Profile%20views&color=0e75b6&style=flat" alt="peterxyjz" /> </p>
 
 - 🌱 I’m currently learning **Golang**
