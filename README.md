@@ -6,7 +6,7 @@
 
 ### 💻 Passionate Software Developer | Full Stack Engineer
 
-<img src="./monleo.gif" alt="Coding" width="300"/>
+<!-- <img src="./monleo.gif" alt="Coding" width="300"/> -->
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ```javascript
 const developer = {
-    name: "Lê Quang Huy",
-    github: "peterxyjz",
-    role: "Full Stack Developer",
-    currentlyLearning: "Golang",
-    expertise: ["Node.js", "Nest.js", "Next.js"],
-    contact: "huyq09@gmail.com",
-    funFact: "I am funny 😄"
+  name: "Lê Quang Huy",
+  github: "peterxyjz",
+  role: "Full Stack Developer",
+  currentlyLearning: "Golang",
+  expertise: ["Node.js", "Nest.js", "Next.js"],
+  contact: "huyq09@gmail.com",
+  funFact: "I am funny 😄",
 };
 ```
 
@@ -113,15 +113,18 @@ const developer = {
 <div align="center">
 
 ### 🔥 Contribution Streak
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterxyjz&theme=radical&hide_border=true&background=0D1117&ring=E34C26&fire=E34C26&currStreakLabel=E34C26" alt="GitHub Streak"/>
 
 ### 📈 GitHub Stats
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterxyjz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&icon_color=E34C26&text_color=FFFFFF" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterxyjz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&text_color=FFFFFF" alt="Most Used Languages"/>
 </p>
 
 ### 🐍 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterxyjz/peterxyjz/output/github-contribution-grid-snake.svg">
@@ -150,12 +153,13 @@ const developer = {
 <div align="center">
 
 ### 💭 Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 **⭐️ From [Peterxyjz](https://github.com/peterxyjz) with ❤️**
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+_"Code is like humor. When you have to explain it, it's bad." - Cory House_
 
 </div>
