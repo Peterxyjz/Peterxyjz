@@ -6,13 +6,15 @@
 
 ### 💻 Passionate Software Developer | Full Stack Engineer
 
-<!-- <img src="./monleo.gif" alt="Coding" width="300"/> -->
-
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<tr>
+<td width="60%">
 
 ```javascript
 const developer = {
@@ -25,6 +27,15 @@ const developer = {
   funFact: "I am funny 😄",
 };
 ```
+
+</td>
+<td width="40%">
+
+<img src="./monleo.gif" alt="Coding" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
